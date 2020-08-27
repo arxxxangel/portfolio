@@ -100,7 +100,7 @@ img {
     height: 302px;
     background-color: #fff;
     border-radius: 50%;
-    background-image: url('/img/avatar.jpg');
+    background-image: url(/img/avatar.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     border: 5px solid white;
