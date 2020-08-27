@@ -100,7 +100,7 @@ img {
     height: 302px;
     background-color: #fff;
     border-radius: 50%;
-    background-image: url(img/avatar.jpg);
+    background-image: url(portfolio/img/avatar.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     border: 5px solid white;
@@ -256,13 +256,13 @@ img {
 
 .input-name {
     margin-bottom: 17px;
-    background-image: url('img/form/user-icon.svg');
+    background-image: url('portfolio/img/form/user-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
 }
 .input-phone {
     margin-bottom: 17px;
-    background-image: url('img/form/phone-icon.svg');
+    background-image: url('portfolio/img/form/phone-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
 }
